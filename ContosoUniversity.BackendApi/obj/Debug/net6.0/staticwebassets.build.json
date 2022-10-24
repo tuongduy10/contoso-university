@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XUJS98bYzTPjGvPbDq/jm8Hr2rxQKTNewIZremAioBg=",
+  "Source": "ContosoUniversity.BackendApi",
+  "BasePath": "_content/ContosoUniversity.BackendApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

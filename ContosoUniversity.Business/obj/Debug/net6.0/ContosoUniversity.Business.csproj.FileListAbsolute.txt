@@ -1,0 +1,15 @@
+D:\repos\ContosoUniversity-Pracetice\ContosoUniversity.Business\bin\Debug\net6.0\ContosoUniversity.Business.deps.json
+D:\repos\ContosoUniversity-Pracetice\ContosoUniversity.Business\bin\Debug\net6.0\ContosoUniversity.Business.dll
+D:\repos\ContosoUniversity-Pracetice\ContosoUniversity.Business\bin\Debug\net6.0\ContosoUniversity.Business.pdb
+D:\repos\ContosoUniversity-Pracetice\ContosoUniversity.Business\bin\Debug\net6.0\ContosoUniversity.Data.dll
+D:\repos\ContosoUniversity-Pracetice\ContosoUniversity.Business\bin\Debug\net6.0\ContosoUniversity.Data.pdb
+D:\repos\ContosoUniversity-Pracetice\ContosoUniversity.Business\obj\Debug\net6.0\ContosoUniversity.Business.csproj.AssemblyReference.cache
+D:\repos\ContosoUniversity-Pracetice\ContosoUniversity.Business\obj\Debug\net6.0\ContosoUniversity.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\ContosoUniversity-Pracetice\ContosoUniversity.Business\obj\Debug\net6.0\ContosoUniversity.Business.AssemblyInfoInputs.cache
+D:\repos\ContosoUniversity-Pracetice\ContosoUniversity.Business\obj\Debug\net6.0\ContosoUniversity.Business.AssemblyInfo.cs
+D:\repos\ContosoUniversity-Pracetice\ContosoUniversity.Business\obj\Debug\net6.0\ContosoUniversity.Business.csproj.CoreCompileInputs.cache
+D:\repos\ContosoUniversity-Pracetice\ContosoUniversity.Business\obj\Debug\net6.0\ContosoUniversity.Business.csproj.CopyComplete
+D:\repos\ContosoUniversity-Pracetice\ContosoUniversity.Business\obj\Debug\net6.0\ContosoUniversity.Business.dll
+D:\repos\ContosoUniversity-Pracetice\ContosoUniversity.Business\obj\Debug\net6.0\refint\ContosoUniversity.Business.dll
+D:\repos\ContosoUniversity-Pracetice\ContosoUniversity.Business\obj\Debug\net6.0\ContosoUniversity.Business.pdb
+D:\repos\ContosoUniversity-Pracetice\ContosoUniversity.Business\obj\Debug\net6.0\ref\ContosoUniversity.Business.dll
